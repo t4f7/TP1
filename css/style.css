@@ -12,5 +12,6 @@
 
 .formulaire input{
   font-size: 32px;
-  background-color: red;
+  display: block;
+  border: 1px solid grey;
 }
