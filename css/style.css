@@ -1,4 +1,11 @@
+*{margin: 0; padding: 0;}
+body{
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
 #first{
+  margin-top: 10px;
   background-color: blue;
 }
 
@@ -11,12 +18,25 @@
 }
 
 img{
-
-  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  align-content: center;
+  display: block;
+  width: 100%;
+  max-width: 500px;
 }
 
+
+
+form{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
 .formulaire input{
-  font-size: 32px;
-  display: block;
-  border: 1px solid grey;
+
+  font-size: 16px;
+  border-bottom: 1px solid grey;
 }
