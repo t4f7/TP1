@@ -1,5 +1,11 @@
 CACHE MANIFEST
 
+CACHE:
 index.html
 css/style.css
 images/calais.jpg
+
+NETWORK:
+*
+
+FALLBACK:
