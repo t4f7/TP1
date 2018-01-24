@@ -1,11 +1,16 @@
-#first {
+#first{
   background-color: blue;
 }
 
-#second {
+#second{
   background-color: white;
 }
 
 #third{
+  background-color: red;
+}
+
+.formulaire input{
+  font-size: 32px;
   background-color: red;
 }
